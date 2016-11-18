@@ -1,0 +1,7 @@
+Los mandamientos del programador:
+
+1. Entender el enunciado hasta sus ultimas consecuencias.
+2. Hacer el programa a mano como si no existiera el ordenador (5 veces).
+3. Hacer el algoritmo.
+4. Traducir al lenguaje c (Codificar).
+5. Hacer un seguimento.

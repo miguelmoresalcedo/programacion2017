@@ -1,0 +1,11 @@
+                      PASAR NUMERO DECIMAL A BINARIO
+
+ - Introduce un numero decimal y guardalo en una variable (numero_decimal)
+ - Reliza el resto (%2) de ese numero (numero_decimal)
+ - Imprime el resultado y lo guardas en la variable (acumulador)
+ - Multiplica lo que hay dentro de la variable (acumulador) por 10
+ - Haz la division (/2) del numero (numero_decimal) y guardalo en
+  (numero_decimal)
+ - Repites hasta que el cociente de las divisiones sea 0
+ - Divide variable (acumulado) entre 10
+ - Imprime la variable (acumulador)
