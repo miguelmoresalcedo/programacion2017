@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, const char *argv[]){
+int main(){
 
     return EXIT_SUCCESS;
 }
